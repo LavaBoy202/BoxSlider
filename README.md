@@ -9,3 +9,10 @@ Welcome to BoxSlider! This is a 3D Unity Game that will test your reflexes! So g
 <img src="ScreenShots/D.png" alt="drawing" width="100"/>
 <strong>Press D to Move Right</strong>
 <img src="ScreenShots/MoveRight.png" alt="drawing" width="1000"/>
+
+## Objective
+### DO NOT HIT THE RED BLOCKS OR FALL OFF THE ROAD!!
+#### <em> May the best box win </em>
+
+
+
