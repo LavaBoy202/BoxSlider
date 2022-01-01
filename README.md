@@ -15,7 +15,6 @@ Welcome to BoxSlider! This is a 3D Unity Game that will test your reflexes! So g
 #### <em> May the best box win </em> :trophy: :sunglasses:
 
 ## Gameplay
-<video width="320" height="240" controls>
-  <source src="/Demo/Gameplays.mov" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/79107199/147860231-8e4e5a58-e9f3-4531-a070-ff180161101a.mp4
 
