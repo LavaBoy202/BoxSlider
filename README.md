@@ -16,6 +16,6 @@ Welcome to BoxSlider! This is a 3D Unity Game that will test your reflexes! So g
 
 ## Gameplay
 <video width="320" height="240" controls>
-  <source src="Demo/gameplays.mov" type="video/mp4">
+  <source src="/Demo/Gameplays.mov" type="video/mp4">
 </video>
 
