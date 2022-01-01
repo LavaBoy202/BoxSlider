@@ -14,5 +14,8 @@ Welcome to BoxSlider! This is a 3D Unity Game that will test your reflexes! So g
 ### DO NOT HIT THE RED BLOCKS OR FALL OFF THE ROAD!! :x:
 #### <em> May the best box win </em> :trophy: :sunglasses:
 
-
+## Gameplay
+<video width="320" height="240" controls>
+  <source src="Demo/gameplays.mov" type="video/mp4">
+</video>
 
